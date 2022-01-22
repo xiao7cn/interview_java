@@ -26,7 +26,7 @@
 
 <br />
 
-## [七、数据库](./database/index.md)
+## [七、数据库](./04_数据库/index.md)
 
 <br />
 
@@ -123,7 +123,6 @@
 * Python
 * Erlang
 * Haskell
-
 
 
 
